@@ -40,6 +40,7 @@ float naturAmp = 1;
 // slider to change circle diameter
 // add instructions
 // convert to p5.js
+// https://p5js.org/reference/#/p5.SoundFile
 // scale to screen size
 // email result
 
